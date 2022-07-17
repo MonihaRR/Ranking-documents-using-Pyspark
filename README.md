@@ -8,3 +8,10 @@ Steps followed:
 3. Implementing the keyword search functionality. 
 4. Implementing result ranking using the TF-IDF measure. 
 5. Implementing a simple interface for giving keyword queries and showing results. 
+
+
+Contributors:
+
+1. Sanjana Arora
+2. Moniha Rangaraju Radhamani
+3. Anjani Sharma
